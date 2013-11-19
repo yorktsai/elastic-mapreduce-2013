@@ -1,0 +1,22 @@
+{
+  "name": "elastic-mapreduce",
+  "version": "0.0.0",
+  "description": "Elastic MapReduce Sample",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yorktsai/elastic-mapreduce"
+  },
+  "author": "York Tsai <york.tw@gmail.com>",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "chai": "~1.7.2",
+    "mocha": "~1.12.1"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "debug": "~0.7.2",
+    "execSync": "~1.0.1-pre",
+    "underscore": "~1.5.1"
+  }
+}
+

@@ -1,0 +1,11 @@
+.DS_Store
+/node_modules
+/vendor
+
+# Eclipse
+/.buildpath
+/.settings
+
+# temp files
+/modules
+/node_modules.tar.gz
